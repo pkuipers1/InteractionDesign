@@ -20,6 +20,9 @@ https://trello.com/b/NEaP1RVg/laravel-site
 
 ## Wireframe
 Dit is een wireframe, gemaakt om de landing page van de website voor mijn minigames op te baseren. 
+![Frame](https://user-images.githubusercontent.com/54790202/170262977-a1b63098-7b04-4cc9-8b96-67b5d11d3337.PNG)
+
+*Download file*
 [WIREFRAME.zip](https://github.com/pkuipers1/InteractionDesign/files/8770960/WIREFRAME.zip)
 
 ## Styleboard 
@@ -28,6 +31,8 @@ Dit is het styleboard voor de website voor mijn minigames.
 
 ## Visueel Ontwerp
 Dit is een werkend visueel ontwerp, gemaakt in XD, van de website voor mijn minigames. 
+![Prototype](https://user-images.githubusercontent.com/54790202/170263400-6079ec89-482e-4761-b7b0-ffe3a3b81e9c.PNG)
+
 [PROTOTYPE.zip](https://github.com/pkuipers1/InteractionDesign/files/8716571/PROTOTYPE.zip)
 
 ## Onderzoek testen met de doelgroep - WIP
