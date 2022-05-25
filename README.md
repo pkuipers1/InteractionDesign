@@ -32,7 +32,7 @@ Dit is een wireframe, gemaakt om de landing page van de website voor mijn miniga
 
 ## Styleboard 
 Dit is het styleboard voor de website voor mijn minigames.
-![Styleboard](https://user-images.githubusercontent.com/54790202/170262143-4bccb4d2-5bb0-460b-a7a6-5fa2f9f9cf90.PNG)
+![Styleboard](https://user-images.githubusercontent.com/54790202/170274490-8ed711ee-34f4-4a0b-b7d1-7c969b6e39c3.PNG)
 
 ## Visueel Ontwerp
 *Download ZIP*
