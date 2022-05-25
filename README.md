@@ -2,10 +2,15 @@
 
 ## Onderzoek klant en product
 Voor mijn minigame Kamelenrace, een project van mijn opdrachtgever, heb ik een klantonderzoek gedaan en daarbij ook een eigen vragenlijst gemaakt om door mensen in te laten vullen. 
+
+*Document Product Resesarch*
 [Product Research.pdf](https://github.com/pkuipers1/InteractionDesign/files/8716317/Product.Research.pdf)
 
 ## Persona's
 Dit zijn 3 persona's die ik heb gemaakt voor datzelfde project. Het zijn er 3 omdat de doelgroep van bowlen héél breed is. 
+![Personas](https://user-images.githubusercontent.com/54790202/170264178-d2106137-c209-4d6b-94e5-ea563eb755bd.PNG)
+
+*Document Persona's*
 [Personas.pdf](https://github.com/pkuipers1/InteractionDesign/files/8716396/Personas.pdf)
 
 ## Moodboards
@@ -33,6 +38,7 @@ Dit is het styleboard voor de website voor mijn minigames.
 Dit is een werkend visueel ontwerp, gemaakt in XD, van de website voor mijn minigames. 
 ![Prototype](https://user-images.githubusercontent.com/54790202/170263400-6079ec89-482e-4761-b7b0-ffe3a3b81e9c.PNG)
 
+*Download ZIP*
 [PROTOTYPE.zip](https://github.com/pkuipers1/InteractionDesign/files/8716571/PROTOTYPE.zip)
 
 ## Onderzoek testen met de doelgroep - WIP
