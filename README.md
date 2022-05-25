@@ -18,12 +18,16 @@ Dit zijn 3 persona's die ik heb gemaakt voor datzelfde project. Het zijn er 3 om
 Op deze trello heb ik een planning voor het maken van een website. De website wordt een platform voor mijn minigames, waarop eigenaren van bowlingcenters informatie kunnen vinden over de games en contact op kunnen nemen met de makers. Deze user stories zijn georganiseerd in sprints en aangegeven met het MoSCoW principe.
 https://trello.com/b/NEaP1RVg/laravel-site
 
-## Styleboard - WIP
+## Wireframe
+Dit is een wireframe, gemaakt om de landing page van de website voor mijn minigames op te baseren. 
+[WIREFRAME.zip](https://github.com/pkuipers1/InteractionDesign/files/8770960/WIREFRAME.zip)
 
-## Wireframes - WIP
+## Styleboard 
+Dit is het styleboard voor de website voor mijn minigames.
+![Styleboard](https://user-images.githubusercontent.com/54790202/170262143-4bccb4d2-5bb0-460b-a7a6-5fa2f9f9cf90.PNG)
 
 ## Visueel Ontwerp
-Dit is een visueel ontwerp, gemaakt in XD, van de website die als gameplatform voor mijn minigames gaat functioneren. 
+Dit is een werkend visueel ontwerp, gemaakt in XD, van de website voor mijn minigames. 
 [PROTOTYPE.zip](https://github.com/pkuipers1/InteractionDesign/files/8716571/PROTOTYPE.zip)
 
 ## Onderzoek testen met de doelgroep - WIP
