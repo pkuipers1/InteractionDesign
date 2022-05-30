@@ -24,7 +24,7 @@ Op deze trello heb ik een planning voor het maken van een website. De website wo
 https://trello.com/b/NEaP1RVg/laravel-site
 
 ## Wireframe
-*Download file* 
+*Download XIP* 
 [Wireframes_BowlingGameSite.zip](https://github.com/pkuipers1/InteractionDesign/files/8797315/Wireframes_BowlingGameSite.zip)
 
 Dit zijn de wireframes voor een groot deel van de pagina's van mijn website.
