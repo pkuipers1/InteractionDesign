@@ -43,8 +43,9 @@ Dit is een werkend visueel ontwerp, gemaakt in XD, van de website voor mijn mini
 
 ## HTML, CSS en Javascript
 Dit is een project waarin ik een website heb gemaakt voor een museum. Ik heb het helemaal zelf gemaakt, in HTML, CSS en Javascript. 
-*Repository: https://github.com/pkuipers1/BO-MuseumOnline*
-*Link: http://28625.hosts2.ma-cloud.nl/f1m2BO-MuseumOnline/quiz.html*
+## *Repository: https://github.com/pkuipers1/BO-MuseumOnline*
+
+## *Link: http://28625.hosts2.ma-cloud.nl/f1m2BO-MuseumOnline/quiz.html*
 
 ### Code Screenshots:
 ![JavaScriptUitleg](https://user-images.githubusercontent.com/54790202/170974275-0860d782-b099-422f-bf30-b3b2f123b929.png)
