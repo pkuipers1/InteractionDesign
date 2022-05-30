@@ -41,6 +41,14 @@ Dit is het styleboard voor de website voor mijn minigames.
 Dit is een werkend visueel ontwerp, gemaakt in XD, van de website voor mijn minigames. 
 ![Prototype](https://user-images.githubusercontent.com/54790202/170263400-6079ec89-482e-4761-b7b0-ffe3a3b81e9c.PNG)
 
-## HTML & CSS
+## HTML, CSS en Javascript
+Dit is een project waarin ik een website heb gemaakt voor een museum. Ik heb het helemaal zelf gemaakt, in HTML, CSS en Javascript. 
+*Repository: https://github.com/pkuipers1/BO-MuseumOnline*
+*Link: http://28625.hosts2.ma-cloud.nl/f1m2BO-MuseumOnline/quiz.html*
+
+### Code Screenshots:
+![JavaScriptUitleg](https://user-images.githubusercontent.com/54790202/170974275-0860d782-b099-422f-bf30-b3b2f123b929.png)
+![ReviewsUitleg](https://user-images.githubusercontent.com/54790202/170974282-1be9d672-28d4-4548-bf95-cebb59782a9a.png)
+![HTMLUitleg](https://user-images.githubusercontent.com/54790202/170974291-3bf80764-17b2-4498-8a0a-c747cd048c82.png)
 
 ## Onderzoek testen met de doelgroep - WIP
