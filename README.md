@@ -55,7 +55,7 @@ Dit is een project waarin ik een website heb gemaakt voor een museum. Ik heb het
 ## Onderzoek testen met de doelgroep
 In dit bestand heb ik een test gedocumenteerd waarbij ik gebruikers de taak gaf om op mijn Portfoliowebsite mijn CV te zoeken. Vervolgens heb ik ze een paar vragen gesteld over de ervaring. 
 
-[User Test.pdf](https://github.com/pkuipers1/InteractionDesign/files/8797984/User.Test.pdf)
+*Document: [User Test.pdf](https://github.com/pkuipers1/InteractionDesign/files/8797984/User.Test.pdf)*
 
 ![image](https://user-images.githubusercontent.com/54790202/170983576-dd79b9f0-4328-4d7d-bc05-16ae8347c83e.png)
 
